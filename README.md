@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a student going into year 12 in September of 2026. I am planning to study Maths, Further Maths, Physics, and Chemistry for my A-levels. In the summer before year 12 I am doing Harvards CS50 course, and preapring for the UKMT Senior Mathematical Challenge. I will also be building a project on python to Improve my coding and problem solving skills. 
 
 <!--
 **SangdakDP/SangdakDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
